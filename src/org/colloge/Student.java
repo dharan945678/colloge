@@ -28,7 +28,7 @@ public class Student extends Colloge{
 		details.studentDept();
 		details.HostalName();
 		details.dept();
-		
+		details.collogegrade();
 		
 		
 	}

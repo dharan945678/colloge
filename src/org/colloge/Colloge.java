@@ -18,5 +18,8 @@ public class Colloge extends Hostal{
 		System.out.println("clg rank is 1");
 	}
 	
+	public void collogegrade() {
+		System.out.println("clg grade is Top 10 clg");
+	}
 
 }
